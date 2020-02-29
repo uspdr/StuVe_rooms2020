@@ -5,15 +5,15 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "DarkCyan",
+          "color": "YellowGreen",
           "showLabel": null,
           "labelDirection": "left"
         },
-        "marker-color": "#4abbeb",
-        "marker-size": "medium",
-        "marker-symbol": "marker",
         "name": "BECI-Büro",
         "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik"
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker",        
       },
       "geometry": {
         "type": "Point",
@@ -27,50 +27,12 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "Orange",
-          "iconClass": "Drop",
-          "showLabel": null,
-          "labelDirection": "right"
-        },
-        "name": "Fachschaft Chemie"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.957607,
-          48.422732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "color": "DarkRed",
-          "iconClass": "Drop",
-          "showLabel": null,
-          "labelDirection": "right"
-        },
-        "name": "Fachschaft Informatik"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.957655,
-          48.422754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
           "iconClass": "Drop",
           "popupShape": "Panel",
           "popupTemplate": "GeoRSSLink",
           "showLabel": null,
           "labelDirection": "right",
-          "color": "LimeGreen"
+          "color": "YellowGreen"
         },
         "name": "Fachschaft Wirtschaftswissenschaften"
       },
@@ -86,7 +48,7 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "DarkCyan",
+          "color": "DeepSkyBlue",
           "showLabel": null,
           "labelDirection": "left"
         },
@@ -109,7 +71,7 @@
         "_umap_options": {
           "showLabel": null,
           "labelDirection": "left",
-          "color": "DarkCyan"
+          "color": "DeepSkyBlue"
         },
         "marker-color": "#4abbeb",
         "marker-size": "medium",
@@ -128,7 +90,7 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "DarkCyan",
+          "color": "DeepSkyBlue",
           "showLabel": null,
           "labelDirection": "left"
         },
@@ -149,14 +111,14 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "DarkCyan",
+          "color": "DeepSkyBlue",
           "showLabel": null,
           "labelDirection": "left"
         },
+        "name": "Aufenthaltsraum West"
         "marker-color": "#4abbeb",
         "marker-size": "medium",
         "marker-symbol": "marker",
-        "name": "Aufenthaltsraum West"
       },
       "geometry": {
         "type": "Point",
@@ -170,12 +132,16 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "DarkRed",
+          "color": "YellowGreen",
           "iconClass": "Drop",
           "showLabel": null,
           "labelDirection": "right"
         },
-        "name": "Fachschaft Elektrotechnik"
+        "name": "Fachschaft West"
+        "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie"
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker",        
       },
       "geometry": {
         "type": "Point",
@@ -185,43 +151,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "color": "DarkRed",
-          "iconClass": "Drop",
-          "showLabel": null,
-          "labelDirection": "right"
-        },
-        "name": "Fachschaft Psychologie"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.946921,
-          48.420034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "iconClass": "Drop",
-          "showLabel": null,
-          "labelDirection": "right",
-          "color": "Orange"
-        },
-        "name": "Fachschaft Biowissenschaft"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.957559,
-          48.422704
-        ]
-      }
     }
   ]
 }
