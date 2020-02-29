@@ -11,7 +11,7 @@
         },
         "name": "BECI-Büro",
         "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik",
-        "marker-color": "#4abbeb",
+        "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"     
       },
@@ -34,7 +34,10 @@
           "labelDirection": "right",
           "color": "YellowGreen"
         },
-        "name": "Fachschaft Wirtschaftswissenschaften"
+        "name": "Fachschaft Wirtschaftswissenschaften",
+        "marker-color": "#a4ba2e",
+        "marker-size": "medium",
+        "marker-symbol": "marker"       
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +142,7 @@
         },
         "name": "Fachschaft West",
         "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie",
-        "marker-color": "#4abbeb",
+        "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"      
       },
