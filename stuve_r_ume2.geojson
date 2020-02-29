@@ -10,10 +10,10 @@
           "labelDirection": "left"
         },
         "name": "BECI-Büro",
-        "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik"
+        "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker",        
+        "marker-symbol": "marker"     
       },
       "geometry": {
         "type": "Point",
@@ -115,10 +115,10 @@
           "showLabel": null,
           "labelDirection": "left"
         },
-        "name": "Aufenthaltsraum West"
+        "name": "Aufenthaltsraum West",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -137,11 +137,11 @@
           "showLabel": null,
           "labelDirection": "right"
         },
-        "name": "Fachschaft West"
-        "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie"
+        "name": "Fachschaft West",
+        "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker",        
+        "marker-symbol": "marker"      
       },
       "geometry": {
         "type": "Point",
@@ -150,7 +150,6 @@
           48.419977
         ]
       }
-    },
     }
   ]
 }
