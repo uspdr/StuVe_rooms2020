@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkCyan",
+          "showLabel": null,
+          "labelDirection": "left"
+        },
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "name": "BECI-Büro",
+        "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957492,
+          48.4227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Orange",
+          "iconClass": "Drop",
+          "showLabel": null,
+          "labelDirection": "right"
+        },
+        "name": "Fachschaft Chemie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957607,
+          48.422732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkRed",
+          "iconClass": "Drop",
+          "showLabel": null,
+          "labelDirection": "right"
+        },
+        "name": "Fachschaft Informatik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957655,
+          48.422754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "popupShape": "Panel",
+          "popupTemplate": "GeoRSSLink",
+          "showLabel": null,
+          "labelDirection": "right",
+          "color": "LimeGreen"
+        },
+        "name": "Fachschaft Wirtschaftswissenschaften"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963546,
+          48.425291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkCyan",
+          "showLabel": null,
+          "labelDirection": "left"
+        },
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "name": "StuVe-Druckraum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955681,
+          48.422166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "showLabel": null,
+          "labelDirection": "left",
+          "color": "DarkCyan"
+        },
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "name": "Café Einstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.954126,
+          48.422743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkCyan",
+          "showLabel": null,
+          "labelDirection": "left"
+        },
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "name": "StEx Büro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9557,
+          48.422958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkCyan",
+          "showLabel": null,
+          "labelDirection": "left"
+        },
+        "marker-color": "#4abbeb",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "name": "Aufenthaltsraum West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94702,
+          48.420103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkRed",
+          "iconClass": "Drop",
+          "showLabel": null,
+          "labelDirection": "right"
+        },
+        "name": "Fachschaft Elektrotechnik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.946868,
+          48.419977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DarkRed",
+          "iconClass": "Drop",
+          "showLabel": null,
+          "labelDirection": "right"
+        },
+        "name": "Fachschaft Psychologie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.946921,
+          48.420034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "showLabel": null,
+          "labelDirection": "right",
+          "color": "Orange"
+        },
+        "name": "Fachschaft Biowissenschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957559,
+          48.422704
+        ]
+      }
+    }
+  ]
+}
