@@ -11,6 +11,7 @@
         },
         "name": "BECI-Büro",
         "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik",
+        "ref": "O27/131"
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"     
@@ -35,6 +36,7 @@
           "color": "YellowGreen"
         },
         "name": "Fachschaft Wirtschaftswissenschaften",
+        "ref": "HeHo18/U03"
         "website": "https://www.uni-ulm.de/mawi/fachbereichsvertretung-wirtschaftswissenschaften/",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
@@ -56,10 +58,12 @@
           "showLabel": null,
           "labelDirection": "left"
         },
+        "name": "StuVe-Druckraum",
+        "ref": "O25/152",
+        "website": "https://stuve.uni-ulm.de/referate/druckreferat",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "name": "StuVe-Druckraum"
+        "marker-symbol": "marker-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -77,10 +81,12 @@
           "labelDirection": "left",
           "color": "DeepSkyBlue"
         },
+        "name": "Café Einstein",
+        "ref": "M24/242",
+        "website": "https://stuve.uni-ulm.de/service",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker",
-        "name": "Café Einstein"
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -99,6 +105,7 @@
           "labelDirection": "left"
         },
         "name": "StEx Büro",
+        "ref": "N26/316",
         "website": "https://stuve.uni-ulm.de/stex/",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
