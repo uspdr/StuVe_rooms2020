@@ -99,7 +99,7 @@
           "labelDirection": "left"
         },
         "name": "StEx Büro",
-        "website:" "https://stuve.uni-ulm.de/stex/",
+        "website": "https://stuve.uni-ulm.de/stex/",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
         "marker-symbol": "marker-stroked"
