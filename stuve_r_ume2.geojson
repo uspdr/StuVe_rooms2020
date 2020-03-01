@@ -11,7 +11,7 @@
         },
         "name": "BECI-Büro",
         "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik",
-        "ref": "O27/131"
+        "ref": "O27/131",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"     
