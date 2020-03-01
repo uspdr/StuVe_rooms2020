@@ -14,7 +14,7 @@
         "ref": "O27/131",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker"     
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -28,9 +28,6 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "iconClass": "Drop",
-          "popupShape": "Panel",
-          "popupTemplate": "GeoRSSLink",
           "showLabel": null,
           "labelDirection": "right",
           "color": "YellowGreen"
@@ -40,7 +37,7 @@
         "website": "https://www.uni-ulm.de/mawi/fachbereichsvertretung-wirtschaftswissenschaften/",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker"       
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -114,8 +111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9557,
-          48.422958
+          9,95565712451935,
+          48,4229336045103
         ]
       }
     },
@@ -154,7 +151,7 @@
         "website": "https://www.fs-et.de/",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker"      
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
