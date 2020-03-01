@@ -41,7 +41,7 @@ Because different "OSM-Viewers" work different, testing was done on several othe
 - _umap_options :: Because umap was used for the first version. These properties may be drafted
 -  color :: color of the umap-marker (value = "YellowGreen" for Fachschaften; "DeepSkyBlue" for StuVe rooms)
 -  showLabel :: determines that there will be a label in umap (value = null)
--  labelDirection :: direction of the umap label (value = "right" for Fachschaften; "left" for StuVe rooms)
+-  labelDirection :: direction of the umap label (value = `<"right">` for Fachschaften; "left" for StuVe rooms)
  
 - marker-symbol :: OSM Node-Icon, (value= "marker" for open rooms; "marker-stroked" for only-StuVe-rooms. more can be found here: <https://map.michelstuyts.be/icons/>
 - marker-color :: "#a4ba2e" for  Fachschaften; "#4abbeb" for StuVe rooms
