@@ -35,6 +35,7 @@
           "color": "YellowGreen"
         },
         "name": "Fachschaft Wirtschaftswissenschaften",
+        "website": "https://www.uni-ulm.de/mawi/fachbereichsvertretung-wirtschaftswissenschaften/",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"       
@@ -97,10 +98,11 @@
           "showLabel": null,
           "labelDirection": "left"
         },
+        "name": "StEx Büro",
+        "website:" "https://stuve.uni-ulm.de/stex/",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "name": "StEx Büro"
+        "marker-symbol": "marker-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -142,6 +144,7 @@
         },
         "name": "Fachschaft West",
         "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie",
+        "website": "https://www.fs-et.de/",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
         "marker-symbol": "marker"      
