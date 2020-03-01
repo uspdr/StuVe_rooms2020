@@ -96,9 +96,6 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "iconClass": "Drop",
-          "popupShape": "Panel",
-          "popupTemplate": "GeoRSSLink",
           "showLabel": null,
           "labelDirection": "right",
           "color": "YellowGreen"
@@ -174,7 +171,7 @@
         },
         "marker-size": "medium",
         "marker-color": "#4abbeb",
-        "marker-symbol": "marker-stroked",
+        "marker-symbol": "marker",
         "name": "StuVe-Büro",
         "ref": "N26/320",
         "website": "https://stuve.uni-ulm.de/service/oeffnungszeiten"
@@ -200,7 +197,7 @@
         "ref": "N26/317",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
+        "marker-symbol": "marker",
         "website": "https://www.uni-ulm.de/med/fachschaft-medizin/"
       },
       "geometry": {
@@ -223,7 +220,7 @@
         "ref": "N26/318",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
+        "marker-symbol": "marker",
         "name": "Fachschaft Zahnmedizin / Lehramt"
       },
       "geometry": {
@@ -247,7 +244,7 @@
         "ref": "N26/319",
         "marker-color": "#a4ba2e",
         "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
+        "marker-symbol": "marker",
         "website": "https://www.uni-ulm.de/mawi/mawi-famat/"
       },
       "geometry": {
