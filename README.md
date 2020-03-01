@@ -13,10 +13,10 @@ Because different "OSM-Viewers" work different, testing was done on several othe
 ## Mandatory Properties
 
 _umap_options	{"color":"<COLOR>","showLabel":null,"labelDirection":"<>"}
-name	<NAME>
-ref	<REFERENCE>
-website	<https://>
-marker-color	<HEX COLOR>
+name	'<NAME>
+ref	'<REFERENCE>
+website	'<https://>
+marker-color	'<HEX COLOR>
 marker-size	<>
 marker-symbol	<>
  
