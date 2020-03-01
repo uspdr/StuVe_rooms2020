@@ -16,7 +16,7 @@ _umap_options	{"color":"<COLOR>","showLabel":null,"labelDirection":"<>"} \n
 name	<NAME> \n
 ref	<REFERENCE> \r\n
 website	<https:// > \n
-marker-color	<HEX COLOR> \n
+marker-color	<HEX COLOR> <<BR>>
 marker-size	<> \n
 marker-symbol	<> \n
  
