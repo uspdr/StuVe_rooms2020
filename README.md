@@ -4,22 +4,41 @@ GeoJson files (maps) for mapping public and quasi-public rooms of the StuVe@Uulm
 The first version of this file was created with <umap.openstreetmap.de>
 Worklink: <https://umap.openstreetmap.de/de/map/anonymous-edit/2550:XoHenbQpgNNkk1GtzKfr5f2edZc>
 
+**documentation/help for umap**
+
+- https://wiki.openstreetmap.org/wiki/UMap/Guide
+- https://wiki.openstreetmap.org/wiki/UMap/Tips
+
+**other**
+
 Because different "OSM-Viewers" work different, testing was done on several other sites
 - <https://geojson.net/#16/48.4236/9.9559>
 - <http://geojson.tools/>
 - <
 
 ---
-## Mandatory Properties
+# CODE (per dataset/node/point)
 ``` geojson
 {
       "type": "Feature",
       "properties": {
+```
+
+## Optional Data
+As mentioned above, these informations are only usefull via umap. For usage in other applications they may be ignored/deleted.
+
+``` geojson
         "_umap_options": {
           "color": " ",
           "showLabel": null,
           "labelDirection": " "
         },
+```
+## Mandatory Data
+``` geojson
+{
+      "type": "Feature",
+      "properties": {
         "name": " ",
         "description": "",
         "ref": " ",
@@ -33,6 +52,8 @@ Because different "OSM-Viewers" work different, testing was done on several othe
           LATITUDE,
           LONGITUDE
         ]
+```
+``` geojson
       }
 }
 ```
@@ -49,3 +70,5 @@ Because different "OSM-Viewers" work different, testing was done on several othe
 - `marker-color` :: (value = `"#a4ba2e"` for  Fachschaften; `"#4abbeb"` for StuVe rooms)
 - `marker-size` :: (value = `medium`)
 - `marker-symbol` :: OSM Node-Icon, (value= `"marker"` for open rooms; `"marker-stroked"` for only-StuVe-rooms). more can be found here: <https://map.michelstuyts.be/icons/>
+- `LATITUDE` :: (~values for Ulm = (min `48.3800`; max `48.4200`))
+- `LONGITUDE` :: (~values for Ulm = (min `9.9300`; max `9.9700`))
