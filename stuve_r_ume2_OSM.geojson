@@ -4,12 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue",
-          "showLabel": null,
-          "labelDirection": "right",
-          "labelInteractive": true
-        },
         "name": "Anlagenreferat",
         "ref": "N25/1311 ",
         "website": "https://stuve.uni-ulm.de/referate/anlagenreferat",
@@ -29,11 +23,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue",
-          "showLabel": null,
-          "labelDirection": "right"
-        },
         "name": "Aufenthaltsraum West",
         "marker-color": "#4abbeb",
         "marker-size": "medium",
@@ -50,11 +39,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "YellowGreen",
-          "showLabel": null,
-          "labelDirection": "left"
-        },
         "name": "BECI-Büro",
         "description": "Das BECI-Büro ist das der Raum der Fachschaften\n- Biowissenschaften\n- Chemie \n- Informatik",
         "ref": "O27/131",
@@ -73,11 +57,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "showLabel": null,
-          "labelDirection": "right",
-          "color": "DeepSkyBlue"
-        },
         "name": "Café Einstein",
         "ref": "M24/242",
         "website": "https://stuve.uni-ulm.de/service",
@@ -96,11 +75,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "YellowGreen",
-          "showLabel": null,
-          "labelDirection": "left"
-        },
         "name": "Fachschaft Mathe / Physik",
         "description": "Fachschaftenbüro der ",
         "ref": "N26/319",
@@ -120,11 +94,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "YellowGreen",
-          "showLabel": null,
-          "labelDirection": "left"
-        },
         "name": "Fachschaft Medizin / Life-Sciences",
         "description": "Büro der Fachschaften\n- Medizin\n- Life-Sciences",
         "ref": "N26/317",
@@ -144,12 +113,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "YellowGreen",
-          "iconClass": "Drop",
-          "showLabel": null,
-          "labelDirection": "left"
-        },
         "name": "Fachschaft West",
         "description": "Das Fachschaftsbüro West ist die Heimat der Fachschaften\n- Elektrotechnik \n- Psychologie",
         "website": "https://www.fs-et.de/",
@@ -168,11 +131,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "showLabel": null,
-          "labelDirection": "left",
-          "color": "YellowGreen"
-        },
         "name": "Fachschaft Wirtschaftswissenschaften",
         "ref": "HeHo18/U03",
         "website": "https://www.uni-ulm.de/mawi/fachbereichsvertretung-wirtschaftswissenschaften/",
@@ -191,11 +149,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "YellowGreen",
-          "showLabel": null,
-          "labelDirection": "left"
-        },
         "description": "Fachschaftenbüro der Fachschaften\n- Zahnmedizn\n- Lehramt",
         "ref": "N26/318",
         "marker-color": "#a4ba2e",
@@ -214,11 +167,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "showLabel": null,
-          "labelDirection": "right",
-          "color": "DeepSkyBlue"
-        },
         "name": "Fahrradwerkstatt",
         "ref": "Albert-Einstein-Allee 14",
         "website": "https://stuve.uni-ulm.de/referate/fahrradwerkstatt",
@@ -237,12 +185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue",
-          "showLabel": null,
-          "labelDirection": "right",
-          "labelInteractive": true
-        },
         "name": "Organisationsreferat",
         "ref": "O25/134 ",
         "website": "https://stuve.uni-ulm.de/referate/organisationsreferat",
@@ -262,11 +204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue",
-          "showLabel": null,
-          "labelDirection": "right"
-        },
         "name": "StEx Büro",
         "ref": "N26/316",
         "website": "https://stuve.uni-ulm.de/stex/",
@@ -285,10 +222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "labelDirection": "right",
-          "color": "DeepSkyBlue"
-        },
         "marker-size": "medium",
         "marker-color": "#4abbeb",
         "marker-symbol": "marker",
@@ -307,12 +240,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DeepSkyBlue",
-          "showLabel": null,
-          "labelDirection": "right",
-          "labelInteractive": true
-        },
         "name": "StuVe-Druckraum",
         "ref": "O25/152",
         "website": "https://stuve.uni-ulm.de/referate/druckreferat",
@@ -331,13 +258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DarkSalmon",
-          "iconClass": "Circle",
-          "iconUrl": "/uploads/pictogram/exit-24_4XlViHS.png",
-          "showLabel": null,
-          "labelDirection": "bottom"
-        },
         "name": "DurchgangUni-Klinik, Chirurgie",
         "description": "Durchgang nur zwischen 6:00 Uhr - 20:00 Uhr möglich",
         "marker-symbol": "circle-stroked",
