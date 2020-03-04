@@ -349,8 +349,8 @@
         },
         "name": "Durchgang Uni-Klinik, Chirurgie",
         "description": "**Hinweis:** Durchgang nur zwischen 6:00 Uhr - 20:00 Uhr möglich",
-        "marker-symbol": "exit",
-        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
         "marker-color": "#e9967a"
       },
       "geometry": {
