@@ -4,6 +4,10 @@ GeoJson files (maps) for mapping public and quasi-public rooms of the StuVe@Uulm
 The first version of this file was created with <umap.openstreetmap.de>
 Worklink: <https://umap.openstreetmap.de/de/map/anonymous-edit/2550:XoHenbQpgNNkk1GtzKfr5f2edZc>
 
+[comment]: <> (in  the output file unless you use it in)
+[//]: <> (This is also a comment.)
+[//]: # (This may be the most platform independent comment)
+
 **documentation/help for umap**
 
 - https://wiki.openstreetmap.org/wiki/UMap/Guide
@@ -52,11 +56,10 @@ As mentioned above, these informations are only usefull via umap. For usage in o
           LATITUDE,
           LONGITUDE
         ]
-```
-``` geojson
       }
 }
 ```
+
 ----
 ## Notes
 - `_umap_options` :: Because umap was used for the first version. These properties may be drafted
